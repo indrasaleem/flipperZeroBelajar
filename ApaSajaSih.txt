@@ -1,0 +1,5 @@
+FLIPPER ZERO PLAYLIST
+- Belajar Ducky Script
+- Belajar NFC Reader
+- Belajar RFID SCript
+- Belajar Infrared
