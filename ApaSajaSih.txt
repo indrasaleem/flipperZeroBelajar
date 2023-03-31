@@ -3,3 +3,4 @@ FLIPPER ZERO PLAYLIST
 - Belajar NFC Reader
 - Belajar RFID SCript
 - Belajar Infrared
+- Belajar SubGHZ
